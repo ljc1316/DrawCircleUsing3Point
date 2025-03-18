@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\CImgDataHdr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\CImageDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DrawCircleUsing3Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\DefineHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DefineHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\CImgDataHdr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\CImageDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|E:\\DevGLIM\\drawCircleUsing3Point\\Src\\drawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{C74D1EBB-83E5-1F18-4CFB-6956BACB548D}|DrawCircleUsing3Point\\DrawCircleUsing3Point.vcxproj|solutionrelative:DrawCircleUsing3Point\\DrawCircleUsing3Point.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 )$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\internal\\report_runtime_error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\startup\\abort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\misc\\terminate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pch.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\pch.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\pch.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\pch.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T18:30:56.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "terminate.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\misc\\terminate.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\misc\\terminate.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T16:40:24.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "abort.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\startup\\abort.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\startup\\abort.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAASwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T16:40:19.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "report_runtime_error.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\internal\\report_runtime_error.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\internal\\report_runtime_error.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T16:40:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "framework.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\framework.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\framework.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\framework.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T15:11:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrawCircleUsing3PointDlg.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T14:57:33.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawCircleUsing3Point.cpp",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DrawCircleUsing3Point.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T18:32:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawCircleUsing3Point.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DrawCircleUsing3Point.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DrawCircleUsing3Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T18:30:47.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CImgDataHdr.cpp",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.cpp",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\CImgDataHdr.cpp",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.cpp",
+              "RelativeToolTip": "DrawCircleUsing3Point\\CImgDataHdr.cpp",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T16:08:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CImageDlg.cpp",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.cpp",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\CImageDlg.cpp",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.cpp",
+              "RelativeToolTip": "DrawCircleUsing3Point\\CImageDlg.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T16:28:20.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\pch.cpp",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\pch.cpp",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\pch.cpp",
+              "RelativeToolTip": "DrawCircleUsing3Point\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T16:14:15.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawCircleUsing3PointDlg.cpp",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DrawCircleUsing3PointDlg.cpp",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAAANQBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T14:57:31.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6ea1cf01-4b6d-4245-abfc-0feac1bf49e8",
+        "Display": 2,
+        "X": 104,
+        "Y": 28,
+        "Width": 1668,
+        "Height": 1046,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefineHeader.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DefineHeader.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DefineHeader.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DefineHeader.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DefineHeader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T15:09:00.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CImageDlg.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\CImageDlg.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImageDlg.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\CImageDlg.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T15:03:23.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CImgDataHdr.h",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.h",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\CImgDataHdr.h",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\CImgDataHdr.h",
+              "RelativeToolTip": "DrawCircleUsing3Point\\CImgDataHdr.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T16:08:18.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d27b6800-9af2-4540-bea5-7010082996f1",
+        "Display": 1,
+        "X": 178,
+        "Y": 13,
+        "Width": 1293,
+        "Height": 1024,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DrawCircleUsing3Point.rc - IDD_DRAWCIRCLEUSING3POINT_DIALOG - Dialog",
+              "DocumentMoniker": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.rc",
+              "RelativeDocumentMoniker": "DrawCircleUsing3Point\\DrawCircleUsing3Point.rc",
+              "ToolTip": "E:\\DevGLIM\\DrawCircleUsing3Point\\Src\\DrawCircleUsing3Point\\DrawCircleUsing3Point\\DrawCircleUsing3Point.rc - IDD_DRAWCIRCLEUSING3POINT_DIALOG - Dialog",
+              "RelativeToolTip": "DrawCircleUsing3Point\\DrawCircleUsing3Point.rc - IDD_DRAWCIRCLEUSING3POINT_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T17:43:53.308Z",
+              "EditorCaption": " - IDD_DRAWCIRCLEUSING3POINT_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
