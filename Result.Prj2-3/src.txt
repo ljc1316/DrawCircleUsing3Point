@@ -1,0 +1,127 @@
+#include <string>
+#include <vector>
+
+
+using namespace std;
+
+int solution(int a, int b, int c, int d) 
+{
+    int answer = 0;
+    
+    //all same number 
+    if((a==b) && (b==c) && (c == d))
+    { 
+        answer = 1111*a; 
+        return answer; 
+    }    
+    
+    //all difference number
+    if(a!=b && b!=c && c!=d && d!=a && a!=c && b!=d) 
+    {
+        int iMin = a;
+        if(b<iMin)
+            iMin = b;
+        if(c<iMin)
+            iMin = c;
+        if(d<iMin)
+            iMin = d;
+        
+        answer = iMin; 
+        return answer;
+    }
+       
+    //pair same number
+    if((a==b && c==d) || (a==c && b==d) || (a==d && b==c)) 
+    {
+        int iP = a; int iQ = 0; 
+        if( iP == b )
+            iQ = c; 
+        else if( iP == c)
+            iQ = b; 
+        else 
+            iQ = c; 
+        
+        if(iP != iQ )
+        {
+            answer = (iP + iQ)*abs(iP-iQ); 
+            return answer; 
+        }            
+    }
+    
+    //three same, 1 difference 
+    if((a==b) && (a==c) && (a != d))
+    {
+        int iP = a; 
+        int iQ = d; 
+        answer = (10*iP + iQ) * (10*iP + iQ); 
+        return answer; 
+    }
+    else if ((b==c) && (b==d) && (b != a))
+    {
+        int iP = b; 
+        int iQ = a; 
+        answer = (10*iP + iQ) * (10*iP + iQ); 
+        return answer; 
+    }
+    else if ((c==d) && (c==a) && (c != b))
+    {
+        int iP = c; 
+        int iQ = b; 
+        answer = (10*iP + iQ) * (10*iP + iQ); 
+        return answer; 
+    }
+    else if ((d==a) && (d==b) && (d != c))
+    {
+        int iP = d; 
+        int iQ = c; 
+        answer = (10*iP + iQ) * (10*iP + iQ); 
+        return answer; 
+    }
+       
+    //two same, 2 difference
+    if((a==b) && (c!=d))
+    {
+        int iQ = c;         
+        int iR = d; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    else if((a==c) && (b!=d))
+    {
+        int iQ = b;         
+        int iR = d; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    else if((a==d) && (b!=c))
+    {
+        int iQ = b;         
+        int iR = c; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    else if((b==c) && (a!=d))
+    {
+        int iQ = a;         
+        int iR = d; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    else if((b==d) && (a!=c))
+    {
+        int iQ = a;         
+        int iR = c; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    else if((c==d) && (a!=b))
+    {
+        int iQ = a;         
+        int iR = b; 
+        answer = iQ*iR; 
+        return answer; 
+    }
+    
+    
+    return answer;
+}

@@ -1,0 +1,25 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(vector<vector<int>> board, int k) 
+{
+    size_t szVecBoard = board.size(); 
+    int iTempSum = 0; 
+    
+    int answer = 0;
+    
+    for(int i = 0; i < szVecBoard; i++)
+    {
+        size_t szVecVecBoard = board[i].size(); 
+        for(int j = 0; j < szVecVecBoard; j++)
+        {
+            iTempSum = i + j; 
+            if(iTempSum <= k)
+                answer += board[i][j]; 
+        }
+    }
+        
+    return answer;
+}

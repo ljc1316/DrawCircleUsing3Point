@@ -1,0 +1,23 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int n, int k) 
+{
+    if((n <= 0) || ( n >= 1000))
+    { printf("Invalid input value n = %d, valid range 0 < n < 100 \n", n); return 0; }
+    //{ std::cout << "Invalid input value n = " << n << " valid value range 0 < n < 100" << std::endl; return 0; }
+    
+    if((k < (n/10)) || ( k >= 1000))
+    { printf("Invalid input value k = %d, valid range (n/10) <= n < 100 \n", k); return 0; }
+    //{ cout << "Invalid input value k = " << n << " valid value range (n/10) <= n < 100" << endl; return 0; }
+    
+    int iNPrice = n * 12000; 
+    int iKService = n/10; 
+    
+    int iKPrice = (k-iKService)*2000; 
+    
+    int answer = iNPrice + iKPrice;
+    return answer;
+}
